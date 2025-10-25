@@ -1,10 +1,11 @@
-#include <iostream>
+#include <iostream.h>
 #include <conio.h>
 using namespace std;
 
 int main()
 {
-	cout<<"No entiendo"<<endl<<"Aiuda";
+
+	cout<<"Ya entendi"<<endl;
 
 	getch();
 	return 0;
